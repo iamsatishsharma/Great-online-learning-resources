@@ -1,5 +1,6 @@
 # Great-online-learning-resources
-Great list of resources on Mobile and Web Development.
+
+Great list of resources on mobile developemnt, cross platform development, front end development, backend development, developer blogs, JavaScript ... etc.
 
 ## Table of Contents
 
