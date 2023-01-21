@@ -35,15 +35,15 @@ Great list of resources on Mobile and Web Development.
 10. [Android News](https://developer.android.com/news)
 
 
-## Swift
+## Swift - iOS
 
-1. []()
+1. [What is Swift?](https://developer.apple.com/swift/)
 
-2. []()
+2. [iOS Open Source Project]()
 
-3. []()
+3. [Getting Started iOS Developer](https://developer.apple.com/swift/resources/)
 
-4. []()
+4. [SwiftUI](https://developer.apple.com/tutorials/sample-apps)
 
 5. []()
 
@@ -55,7 +55,7 @@ Great list of resources on Mobile and Web Development.
 
 9. []()
 
-10. []()
+10. [iOS News]()
 
 ## [XML]
 
