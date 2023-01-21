@@ -5,10 +5,11 @@ Great list of resources on Mobile and Web Development.
 
 1. [Android](#android)
 
-2. [Swift](#swift)
+2. [Swift iOS](#swift-ios)
 
 3. [XML](#xml)
 
+4. [Tech Blogs](#tech-blogs)
 
 
 
@@ -35,50 +36,47 @@ Great list of resources on Mobile and Web Development.
 10. [Android News](https://developer.android.com/news)
 
 
-## Swift - iOS
+## Swift iOS
 
 1. [What is Swift?](https://developer.apple.com/swift/)
 
-2. [iOS Open Source Project]()
+2. [iOS Open Source Project](https://www.codementor.io/projects/swift)
 
 3. [Getting Started iOS Developer](https://developer.apple.com/swift/resources/)
 
 4. [SwiftUI](https://developer.apple.com/tutorials/sample-apps)
 
-5. []()
+5. [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 
-6. []()
+6. [iOS Development for Beginners](https://www.kodeco.com/ios/paths/learn)
 
-7. []()
+7. [Swift projects](https://www.codementor.io/projects/swift)
 
-8. []()
+8. [The Complete iOS App Development-From Beginner to iOS App Developer](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
-9. []()
+9. [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer)
 
-10. [iOS News]()
+10. [Advanced Programming in Swift by Meta](https://www.coursera.org/learn/advanced-programming-in-swift)
 
-## [XML]
+11. [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
+ 
+12. [iOS News](https://developer.apple.com/whats-new/)
 
-1. []()
+## XML
 
-2. []()
+1. [XML Tutorial](https://www.w3schools.com/xml/)
 
-3. []()
+2. [W3](https://www.w3.org/XML)
 
-4. []()
+3. [XML for the absolute beginner](https://www.infoworld.com/article/2076396/xml-for-the-absolute-beginner.html)
 
-5. []()
-
-6. []()
-
-7. []()
-
-8. []()
-
-9. []()
-
-10. []()
+4. [XML Tutorial point](https://www.infoworld.com/article/2076396/xml-for-the-absolute-beginner.html)
 
 
+## Tech Blogs
 
+1. [Swift](https://www.swift.org/)
+
+
+Feel free to contact me on ssharma.developers@gmail.com
 
