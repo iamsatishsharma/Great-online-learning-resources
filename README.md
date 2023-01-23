@@ -16,6 +16,8 @@ Please give this project a star if you find it useful or are using it to learn o
 
 5. [Tech Blogs](#tech-blogs)
 
+6. [Golang](#golang)
+
 
 
 ## Android
@@ -182,6 +184,31 @@ Please give this project a star if you find it useful or are using it to learn o
 
 - [Wes Bos](https://wesbos.com/)
 
+## Golang
+
+- [Intro to Golang](https://www.golang-book.com/books/intro)
+
+- [Get Started - The Go Programming Language](https://go.dev/doc/tutorial/getting-started)
+
+- [Install the latest version of Go](https://go.dev/learn/)
+
+- [100+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo)
+
+- [A Tour of Go](https://tour.golang.org/welcome/1)
+
+- [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/)
+
+- [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+
+- [GoLang Tutorials](https://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
+
+- [In-depth Go Tutorials](https://blog.learngoprogramming.com/)
+
+- [Go by Example](https://gobyexample.com/)
+
+- [Go Tutorial](https://www.w3schools.com/go/)
+
+- [Why Go?](https://www.freecodecamp.org/news/what-is-go-programming-language/)
 
 Feel free to contact me on ssharma.developers@gmail.com
 
