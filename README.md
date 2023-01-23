@@ -12,7 +12,9 @@ Please give this project a star if you find it useful or are using it to learn o
 
 3. [XML](#xml)
 
-4. [Tech Blogs](#tech-blogs)
+4. [Kotlin](#kotlin)
+
+5. [Tech Blogs](#tech-blogs)
 
 
 
@@ -74,6 +76,32 @@ Please give this project a star if you find it useful or are using it to learn o
 3. [XML for the absolute beginner](https://www.infoworld.com/article/2076396/xml-for-the-absolute-beginner.html)
 
 4. [XML Tutorial point](https://www.infoworld.com/article/2076396/xml-for-the-absolute-beginner.html)
+
+## Kotlin
+
+1. [Kotlin a modern programming language](https://kotlinlang.org/)
+
+2. [Get started with Kotlin](https://kotlinlang.org/docs/getting-started.html)
+
+3. [kotlin-bootcamp](https://developer.android.com/courses/kotlin-bootcamp/overview#lesson_1_get_started)
+
+4. [Multiplatform Mobile](https://kotlinlang.org/lp/mobile/)
+
+5. [Kotlin Server-side](https://kotlinlang.org/lp/server-side/)
+
+6. [Kotlin for Android book](https://www.packtpub.com/application-development/programming-kotlin)
+
+7. [Kotlin for Android](https://developer.android.com/kotlin)
+
+8. [Learn Kotlin by Creating Application](https://lp.jetbrains.com/academy/learn-kotlin/)
+
+9. [Kotlin by Hackr.io](https://hackr.io/tutorials/learn-kotlin)
+
+10. [DevProjects - Free](https://www.codementor.io/projects/mobile)
+
+11. [Developing Android Apps with Kotlin by Google](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+
+12 [Six Weeks of Android App Development – FREE Project Based Learning](https://www.geeksforgeeks.org/6-weeks-of-android-app-development-free-project-based-learning/)
 
 
 ## Tech Blogs
