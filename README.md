@@ -108,6 +108,80 @@ Please give this project a star if you find it useful or are using it to learn o
 
 - [Swift](https://www.swift.org/)
 
+- [The Verge](https://www.theverge.com/)
+
+- [Tuts+ Code](https://code.tutsplus.com/series)
+
+- [Stack Overflow](https://stackoverflow.com/)
+
+- [HackerNoon](https://hackernoon.com/)
+
+- [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
+
+- [Alistapart](https://alistapart.com/)
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/?ref=grb)
+
+- [Assortment.io](https://assortment.io/)
+
+- [Ayo Isaiah](https://freshman.tech/)
+
+- [Coding Horror](https://blog.codinghorror.com/be-good-at-your-job/)
+
+- [Backticks & Tildes](https://medium.com/backticks-tildes)
+
+- [Bitsofcode](https://bitsofco.de/)
+
+- [catlin.red](https://catalin.red/)
+
+- [MIT Free Courses](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+
+- [Creative Bloq](https://www.creativebloq.com/)
+
+- [David Heinemeier Hansson (DHH)](https://medium.com/@dhh)
+
+- [David Walsh](https://davidwalsh.name/)
+
+- [Flavio Copes](https://flaviocopes.com/)
+
+- [Gift Egwuenu](https://giftegwuenu.com/)
+
+- [Jake Archibald](https://jakearchibald.com/)
+
+- [Harry Cresswell](https://harrycresswell.com/articles/)
+
+- [Mark Dotto Blog](https://markdotto.com/)
+
+- [Martin Fowler](https://martinfowler.com/)
+
+- [Monica Powell](https://www.aboutmonica.com/)
+
+- [Raymond Camden](https://raymondcamden.com/)
+
+- [Shay Howe](https://learn.shayhowe.com/)
+
+- [Tania Rascia](https://www.taniarascia.com/)
+
+- [Todd Motto](https://toddmotto.com/)
+
+- [Zell's Blog](https://zellwk.com/blog)
+
+- [Dan Abramov Blog](https://overreacted.io/)
+
+- [Web Development Reading List](https://wdrl.info/)
+
+- [Developer Roadmap](https://roadmap.sh/)
+
+- [CodeWall](https://codewall.co.uk/)
+
+- [Joshua Comeau](https://joshwcomeau.com/)
+
+- [Sara Soueidan](https://sarasoueidan.com/)
+
+- [Robin Weiruch](https://robinwieruch.de/)
+
+- [Wes Bos](https://wesbos.com/)
+
 
 Feel free to contact me on ssharma.developers@gmail.com
 
