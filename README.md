@@ -20,6 +20,7 @@ Please give this project a star if you find it useful or are using it to learn o
 
 7. [Flutter](#flutter)
 
+8. [Agile](#agile)
 
 
 ## Android
@@ -235,6 +236,17 @@ Please give this project a star if you find it useful or are using it to learn o
 
 - [The Complete Free Flutter Course by Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured)
 
+
+## Agile
+
+- [What is Agile?](https://www.atlassian.com/agile#:~:text=Agile%20is%20an%20iterative%20approach,small%2C%20but%20consumable%2C%20increments.)
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [Twelve Principles of Agile Software](https://agilemanifesto.org/principles.html)
+- [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
+- [What is kanban?](https://www.atlassian.com/agile/kanban)
+- [Agile Alliance](https://www.agilealliance.org/agile101/)
+- [The Agile Idea](https://www.manning.com/books/the-agile-idea)
+- [Agile user stories](https://zepel.io/agile/user-stories/)
 
 
 
