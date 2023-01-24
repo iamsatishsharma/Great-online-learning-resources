@@ -22,6 +22,9 @@ Please give this project a star if you find it useful or are using it to learn o
 
 8. [Agile](#agile)
 
+9. [DevOps](#devops)
+
+
 
 ## Android
 
@@ -253,6 +256,25 @@ Please give this project a star if you find it useful or are using it to learn o
 - [The Agile Idea](https://www.manning.com/books/the-agile-idea)
 
 - [Agile user stories](https://zepel.io/agile/user-stories/)
+
+
+## DevOps
+
+- [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
+
+- [Devops with Jenkins](https://www.devopsuniversity.org/jenkins-setup-guide/)
+
+- [How to Become a DevOps Engineer](https://www.simplilearn.com/tutorials/devops-tutorial/how-to-become-devops-engineer)
+
+- [Managing Your CI/CD Continuous Improvement With Pipelines](https://www.simplilearn.com/tutorials/jenkins-tutorial/ci-cd-pipeline)
+
+- [What Is Jenkins? Working, Uses, Pipelines, and Features](https://www.spiceworks.com/tech/devops/articles/what-is-jenkins/)
+
+- [Jenkins Pipeline Tutorial: A Beginner’s Guide To Continuous Delivery](https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery)
+
+- [Cross-Industry DevOps: 3 Firms Get It Right with Jenkins ](https://www.jenkins.io/blog/2020/10/20/Cross-Industry-DevOps-3-Firms-Get-It-Right-with-Jenkins/)
+
+- [30 Best DevOps Tools to Learn and Master In 2023: Git, Docker, Jenkins and More](https://www.simplilearn.com/tutorials/devops-tutorial/devops-tools)
 
 
 
