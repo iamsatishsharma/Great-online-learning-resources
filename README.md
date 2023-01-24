@@ -18,6 +18,8 @@ Please give this project a star if you find it useful or are using it to learn o
 
 6. [Golang](#golang)
 
+7. [Flutter](#flutter)
+
 
 
 ## Android
@@ -209,6 +211,32 @@ Please give this project a star if you find it useful or are using it to learn o
 - [Go Tutorial](https://www.w3schools.com/go/)
 
 - [Why Go?](https://www.freecodecamp.org/news/what-is-go-programming-language/)
+
+
+## Flutter
+
+- [What is Flutter and Why You Should Learn it](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
+
+- [Get-started with Flutter](https://docs.flutter.dev/get-started/install)
+
+- [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/p/intro-to-flutter)
+
+- [Flutter Course - Full Tutorial for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+
+- [Flutter: Learning Resources for Beginners](https://dev.to/nitya/flutter-learning-resources-for-beginners-5719)
+
+- [Example Flutter UI](https://fluttersourcecode.com/)
+
+- [Flutter Documentation](https://flutter.dev/docs)
+
+- [Flutter Tutorial by The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU)
+
+- [Flutter Forward](https://flutter.dev/events/flutter-forward)
+
+- [The Complete Free Flutter Course by Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured)
+
+
+
 
 Feel free to contact me on ssharma.developers@gmail.com
 
