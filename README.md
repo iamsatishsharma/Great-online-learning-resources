@@ -24,7 +24,7 @@ Please give this project a star if you find it useful or are using it to learn o
 
 9. [DevOps](#devops)
 
-
+10. [React Native](#react-native)
 
 ## Android
 
@@ -276,6 +276,24 @@ Please give this project a star if you find it useful or are using it to learn o
 
 - [30 Best DevOps Tools to Learn and Master In 2023: Git, Docker, Jenkins and More](https://www.simplilearn.com/tutorials/devops-tutorial/devops-tools)
 
+
+## React Native
+
+- [What is React Native?](https://www.elpassion.com/blog/what-is-react-native-and-when-to-use-it)
+
+- [Get-started with React Native](https://reactnative.dev/docs/environment-setup)
+
+- [Awesome React Native](https://www.awesome-react-native.com/)
+
+- [11 React Native Component Libraries you Should Know](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
+
+- [Free React native projects](https://www.codementor.io/projects/react-native)
+
+- [The State of React Native](https://www.youtube.com/watch?v=plTTFqbEiEE)
+
+- [The Ultimate React Native Tutorial](https://www.simplilearn.com/react-native-tutorial-article)
+
+- [Facebook react-native framework](https://github.com/facebook/react-native)
 
 
 Feel free to contact me on ssharma.developers@gmail.com
