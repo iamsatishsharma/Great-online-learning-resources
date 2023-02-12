@@ -276,6 +276,10 @@ Please give this project a star if you find it useful or are using it to learn o
 
 - [30 Best DevOps Tools to Learn and Master In 2023: Git, Docker, Jenkins and More](https://www.simplilearn.com/tutorials/devops-tutorial/devops-tools)
 
+- [Puppet Tutorial](https://www.tutorialspoint.com/puppet/)
+
+- [Chef Tutorial](https://www.tutorialspoint.com/chef/)
+
 
 ## React Native
 
