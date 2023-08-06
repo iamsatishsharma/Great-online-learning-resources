@@ -1,7 +1,7 @@
 # Great-online-learning-resources
 Great list of resources on mobile development, cross platform development, front end development, backend development, developer blogs, JavaScript ... etc.
 
-# Follow and give a start :star:
+# Follow and give a star :star:
 Please give this project a star if you find it useful or are using it to learn or begin your solution. Thanks!
 
 ## Table of Contents
